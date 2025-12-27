@@ -1,8 +1,7 @@
 # <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm1ic3luZjBtZHZkMGFtZHU3cWs3cWp3bHN6bm11Zmw1YzFyaWE3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EL73iFBSkHYCNlx3VP/giphy.gif" width="100" Margin="10"/> Bienveni@ al GitHup de Inma!
 Soy desarrolladora Junior. Actualmente estoy finalizando mis estudios CFGS DAM.
 
-Habilidades que he ido adquiriendo:
-
+## Habilidades que he ido adquiriendo:
 - Backend: 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
@@ -27,5 +26,5 @@ Habilidades que he ido adquiriendo:
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
 
-Proyectos...proximamente.
+## Proyectos... proximamente.
 
