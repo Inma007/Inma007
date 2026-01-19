@@ -26,5 +26,5 @@ Soy desarrolladora Junior. Actualmente estoy finalizando mis estudios CFGS DAM.
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
 
-## Proyectos... proximamente.
+## Proyectos!
 
