@@ -28,5 +28,5 @@ Soy desarrolladora Junior. Actualmente estoy finalizando mis estudios CFGS DAM.
 
 ## Visualización de proyectos:
 Android1:
-
+<br>
 [Visualización de pantallas y funcionamiento](./Android1-Visualización_de_pantallas_y_funcionamiento.pdf)
