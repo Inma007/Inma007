@@ -27,5 +27,6 @@ Soy desarrolladora Junior. Actualmente estoy finalizando mis estudios CFGS DAM.
     ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
 
 ## Visualización de proyectos:
+Android1:
+
 [Visualización de pantallas y funcionamiento](./Android1-Visualización_de_pantallas_y_funcionamiento.pdf)
-    
