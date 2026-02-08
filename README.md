@@ -13,12 +13,12 @@ Soy desarrolladora Junior. Actualmente estoy finalizando mis estudios CFGS DAM.
  ![XAML](https://img.shields.io/badge/XAML-0C54C2?style=flat&logo=xml&logoColor=white)
  ![WPF](https://img.shields.io/badge/WPF-5C2D91?style=flat&logo=windows&logoColor=white)
 
- - Base de datos:
+- Base de datos:
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
    ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
-   - Programas:
+- Programas:
     ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
     ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
     ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
