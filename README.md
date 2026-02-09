@@ -1,4 +1,4 @@
-# <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm1ic3luZjBtZHZkMGFtZHU3cWs3cWp3bHN6bm11Zmw1YzFyaWE3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EL73iFBSkHYCNlx3VP/giphy.gif" width="100" Margin="10"/> Bienveni@ al GitHup de Inma!
+# <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm1ic3luZjBtZHZkMGFtZHU3cWs3cWp3bHN6bm11Zmw1YzFyaWE3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EL73iFBSkHYCNlx3VP/giphy.gif" width="100" Margin="10"/> Bienveni@ al GitHub de Inma!
 Soy desarrolladora Junior. Actualmente estoy finalizando mis estudios CFGS DAM.
 
 ## Habilidades que he ido adquiriendo:
